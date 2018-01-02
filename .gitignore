@@ -55,9 +55,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-applications/config/*
-applications/library/*
-applications/language/*
+application/config/*
+application/library/*
+application/language/*
 vendor/*
 public/
 assetsx/
